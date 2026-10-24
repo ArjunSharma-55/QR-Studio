@@ -1,0 +1,1 @@
+{"name":"qr-studio","version":"1.0.0","private":true,"description":"Local-first QR generator","scripts":{"test":"node tests/smoke-test.js","serve":"python -m http.server 8080"}}
